@@ -12,7 +12,7 @@
 
 
 ### Skills
-Javascript, ReactJS, NextJs, MongoDb, Tailwind.
+ReactJS, NextJs, MongoDb, PostgreSql,NodeJS, NestJS.
 
 
 
